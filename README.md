@@ -1,4 +1,4 @@
 # Transaction-Prediction
 LightGBM model 
 
-Kaggle's Competitions: Santander Customer Transaction Prediction
+Kaggle's Competition: Santander Customer Transaction Prediction
